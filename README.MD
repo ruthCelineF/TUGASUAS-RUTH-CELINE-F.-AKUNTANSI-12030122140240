@@ -1,4 +1,4 @@
-# Analisis Data Penjualan
+# RUTH-CELINE-F.-AKUNTANSI-12030122140240-PemogramanDanPengkodean
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk melakukan analisis data penjualan menggunakan Python. Data yang digunakan terdiri dari beberapa file CSV, termasuk data produksi, penjualan, persediaan, pemasaran, dan data pelanggan. Dalam proyek ini, kita akan melakukan berbagai tahapan analisis data mulai dari pengumpulan data, pembersihan data, exploratory data analysis (EDA), modelling data menggunakan regresi linear, hingga evaluasi model dan penyajian hasil.
